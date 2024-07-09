@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\primerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:primerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:28:35.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:20:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:12:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimerAPI.http",
+              "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\PrimerAPI.http",
+              "RelativeDocumentMoniker": "PrimerAPI.http",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\PrimerAPI.http",
+              "RelativeToolTip": "PrimerAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-09T20:12:38.283Z",
+              "EditorCaption": ""
             }
           ]
         }
