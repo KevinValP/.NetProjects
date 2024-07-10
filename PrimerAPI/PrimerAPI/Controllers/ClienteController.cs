@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PrimerAPI.Models;
 
 
 namespace PrimerAPI.Controllers
@@ -12,54 +13,31 @@ namespace PrimerAPI.Controllers
         [Route("listar")]
         public dynamic ListarCliente()
         {
-            List<Models.Cliente> clientes = new List<Models.Cliente>
-            {
-                new Models.Cliente
-                {
-                    Id = 1, Nombre = "Juan", Edad = "25", Correo = "kevinjair810@gmail.com"
-                },
-                new Models.Cliente
-                {
-                    Id = 2, Nombre = "Pedro", Edad = "30", Correo = "pedro@gmail.com" 
-                }
-
-            };
+            List<Cliente> lstClientes = new BLL.Cliente().listarClientes();
             
            
             //Todo el codigo que se desea
-            return clientes;
+            return lstClientes;
         }
 
         [HttpGet]
         [Route("listarid")]
         public dynamic ListarClientePorId(int id)
         {
-            List<Models.Cliente> clientes = new List<Models.Cliente>
-            {
-                new Models.Cliente
-                {
-                    Id = id, Nombre = "Juan", Edad = "25", Correo = "kevinjair810@gmail.com"
-                }
-
-            };
-
+            Cliente cliente = new BLL.Cliente().listarClientePorId(id);
+ 
 
             //Todo el codigo que se desea
-            return clientes;
+            return cliente;
         }
 
 
         [HttpPost]
         [Route("guardar")]
-        public dynamic GuardarCliente(Models.Cliente cliente)
+        public dynamic GuardarCliente(Cliente cliente)
         {
-            cliente.Id = 5;
-            return new
-            {
-                success = true,
-                message = "registrado exitosamente",
-                result = cliente.ToString()
-            };
+            Cliente cli = new BLL.Cliente().GuardarCliente(cliente);
+            return cli.Id;
         }
     }
 }
