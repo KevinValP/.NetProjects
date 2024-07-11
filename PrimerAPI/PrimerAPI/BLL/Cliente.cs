@@ -1,35 +1,41 @@
 ﻿
 
+using System.Data;
+
 namespace PrimerAPI.BLL
 {
     public class Cliente
     {
         public List<Models.Cliente> listarClientes()
         {
-
-            List<Models.Cliente> clientes = new List<Models.Cliente>
+            List<Models.Cliente> lstClientes = new List<Models.Cliente>();
+            foreach(DataRow Row in new DAL.Cliente().ListarClientes().Rows)
             {
-                new Models.Cliente
-                {
-                    Id = 1, Nombre = "Juan", Edad = "25", Correo = "kevinjair810@gmail.com"
-                }
-            };
-
-            return clientes;
-
-
+                Models.Cliente cliente = new Models.Cliente();
+                cliente.Id = Convert.ToInt32(Row["Id"]);
+                cliente.Nombre = Row["Nombre"].ToString();
+                cliente.Edad = Row["Edad"].ToString();
+                cliente.Correo = Row["Correo"].ToString();
+                lstClientes.Add(cliente);
+            }
+            return lstClientes;
         }
 
         public Models.Cliente GuardarCliente(Models.Cliente cliente)
         {
-            Models.Cliente cli = new Models.Cliente { Id = cliente.Id };
+            Models.Cliente cli = new DAL.Cliente().Guardar(cliente);
             return cli;
         }
 
         public Models.Cliente listarClientePorId(int id)
         {
-            Models.Cliente cliente = new Models.Cliente { Id = id, Nombre = "Juan", Edad = "23", Correo = "je@gmail.com" };
-            return cliente;
+            Models.Cliente cli = new Models.Cliente();
+            DataRow row = new DAL.Cliente().ListarClientePorId(id).Rows[0];
+            cli.Id = Convert.ToInt32(row["Id"]);
+            cli.Nombre = row["Nombre"].ToString();
+            cli.Edad = row["Edad"].ToString();
+            cli.Correo = row["Correo"].ToString();
+            return cli;
         }
     }
 
