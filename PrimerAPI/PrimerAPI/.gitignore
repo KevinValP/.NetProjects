@@ -1,5 +1,79 @@
-bin/
-obj/
-packages/
+
+# Visual Studio
+.vscode/
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Web and configuration files
+config/
+*.config
+*.config.*
+
+# IIS
+[Ii][Nn][Ee][Tt][Uu][Ss][Ee][Rr]/
+[Ii][Nn][Ee][Tt][Pp][Uu][Bb]/
+[Ii][Ii][Ss][Ee][Xx][Pp][Rr][Ee][Ss][Ss]/
+
+# Azure
+.vscode/Azure/
+.swa
+
+# Rider
+.idea/
+
+# Code coverage results
+coverage/
+coverage*.json
+coverage*.xml
+coverage*.html
+*.nyc_output
+lcov.info
+lcov-report/
+
+# Entity Framework Core
+*.jfm
+*.db
+*.mdf
+*.ldf
+*.ndf
+
+# dotenv environment variables file
 .env
-.vs/
+.env.*.local
+
+# Publish directory
+publish/
+
+# NPM files
+node_modules/
+
+# Log files
+*.log
