@@ -21,9 +21,9 @@ namespace PrimerAPI.BLL
             return lstClientes;
         }
 
-        public Models.Cliente GuardarCliente(Models.Cliente cliente)
+        public int GuardarCliente(Models.Cliente cliente)
         {
-            Models.Cliente cli = new DAL.Cliente().Guardar(cliente);
+            int cli = new DAL.Cliente().Guardar(cliente);
             return cli;
         }
 

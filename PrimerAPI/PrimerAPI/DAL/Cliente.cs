@@ -56,24 +56,24 @@ namespace PrimerAPI.DAL
             
         }
 
-        public Models.Cliente Guardar(Models.Cliente cliente)
+        public int Guardar(Models.Cliente cliente)
         {
             try
             {
+                int id;
                 using(SqlConnection con = new SqlConnection(conexionString))
                 {
                     con.Open();
-                    string query = @"insert Clientes values (@id, @nombre, @edad, @correo)";
+                    string query = @"insert Clientes (nombre, edad, correo) output INSERTED.ID values (@nombre, @edad, @correo)";
                     SqlCommand cmd = new SqlCommand(query, con);
-                    cmd.Parameters.AddWithValue("id", cliente.Id);
                     cmd.Parameters.AddWithValue("nombre", cliente.Nombre);
                     cmd.Parameters.AddWithValue("edad", cliente.Edad);
                     cmd.Parameters.AddWithValue("correo", cliente.Correo);
-                    cmd.ExecuteNonQuery();
-                    con.Close();
+                    SqlDataAdapter adp = new SqlDataAdapter(cmd);
+                    id = (Int32)cmd.ExecuteScalar();
                 }
                 
-                return cliente;
+                return id;
             }catch(Exception ex)
             {
                 throw new Exception(ex.Message);

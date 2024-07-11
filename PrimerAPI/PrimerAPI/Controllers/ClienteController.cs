@@ -36,8 +36,8 @@ namespace PrimerAPI.Controllers
         [Route("guardar")]
         public dynamic GuardarCliente(Cliente cliente)
         {
-            Cliente cli = new BLL.Cliente().GuardarCliente(cliente);
-            return cli.Id;
+            int cli = new BLL.Cliente().GuardarCliente(cliente);
+            return cli;
         }
     }
 }

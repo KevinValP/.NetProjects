@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\dal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:dal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,28 +50,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-11T18:55:01.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\DAL\\Cliente.cs",
               "RelativeDocumentMoniker": "DAL\\Cliente.cs",
               "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\DAL\\Cliente.cs",
               "RelativeToolTip": "DAL\\Cliente.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAwwEgAAAAgAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowD4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T18:15:08.521Z"
+              "WhenOpened": "2024-07-11T18:15:08.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,24 +80,25 @@
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\BLL\\Cliente.cs",
               "RelativeDocumentMoniker": "BLL\\Cliente.cs",
-              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\BLL\\Cliente.cs",
-              "RelativeToolTip": "BLL\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAMAAAA",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\BLL\\Cliente.cs*",
+              "RelativeToolTip": "BLL\\Cliente.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T17:17:23.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCoAAAABAAAA",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs*",
+              "RelativeToolTip": "Controllers\\ClienteController.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T20:20:21.305Z"
+              "WhenOpened": "2024-07-09T20:20:21.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
