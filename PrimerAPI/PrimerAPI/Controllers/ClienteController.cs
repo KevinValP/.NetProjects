@@ -39,5 +39,22 @@ namespace PrimerAPI.Controllers
             int cli = new BLL.Cliente().GuardarCliente(cliente);
             return cli;
         }
+
+        [HttpPut]
+        [Route("actualizar")]
+        public dynamic ActualizarCliente(Cliente cliente, int id)
+        {
+            Models.Cliente cliente1 = new BLL.Cliente().ActualizarCliente(cliente, id);
+            return cliente1;
+        }
+
+        [HttpPut]
+        [Route("eliminar")]
+        public dynamic EliminarCliente(int id)
+        {
+
+           string cli = new BLL.Cliente().EliminarCliente(id);
+           return cli;
+        }
     }
 }
