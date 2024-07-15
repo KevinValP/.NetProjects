@@ -68,7 +68,7 @@ namespace PrimerAPI.DAL
                 using(SqlConnection con = new SqlConnection(conexionString))
                 {
                     con.Open();
-                    string query = @"insert Clientes (nombre, edad, correo) output INSERTED.ID values (@nombre, @edad, @correo, 'A')";
+                    string query = @"insert Clientes (nombre, edad, correo, estatus) output INSERTED.ID values (@nombre, @edad, @correo, 'A')";
                     SqlCommand cmd = new SqlCommand(query, con);
                     cmd.Parameters.AddWithValue("nombre", cliente.Nombre);
                     cmd.Parameters.AddWithValue("edad", cliente.Edad);

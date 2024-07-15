@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:dal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7CE0CC-0E50-4B70-AD8F-607E77669850}|PrimerAPI.csproj|c:\\users\\kevin.valenzuela\\desktop\\.netprojects\\primerapi\\primerapi\\primerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -58,8 +58,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-11T18:55:01.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T18:55:01.295Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "DAL\\Cliente.cs",
               "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\DAL\\Cliente.cs",
               "RelativeToolTip": "DAL\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBYAAAAQAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwEYAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T18:15:08.521Z",
               "EditorCaption": ""
@@ -80,29 +79,29 @@
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\BLL\\Cliente.cs",
               "RelativeDocumentMoniker": "BLL\\Cliente.cs",
-              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\BLL\\Cliente.cs*",
-              "RelativeToolTip": "BLL\\Cliente.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAA5AAAA",
+              "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\BLL\\Cliente.cs",
+              "RelativeToolTip": "BLL\\Cliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T17:17:23.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDkAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T20:20:21.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\PrimerAPI\\PrimerAPI\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "Models\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T20:28:35.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T20:28:35.616Z"
             },
             {
               "$type": "Document",
