@@ -30,6 +30,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/estudiantes/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXN0dWRpYW50ZXNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

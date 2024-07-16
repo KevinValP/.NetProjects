@@ -1,0 +1,90 @@
+[33mcommit 8c39c6bf802cf37546fad5e132bf007403cc650a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Mon Jul 15 13:07:05 2024 -0700
+
+    Added Two Demo Projects
+
+[33mcommit 8de69475d583a369df0ff9dbe7115e874d7530db[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Fri Jul 12 13:06:12 2024 -0700
+
+    Added Update and Delete
+
+[33mcommit 3930438667af954f8fff82ea01515193164386aa[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Thu Jul 11 13:24:39 2024 -0700
+
+    Table is now identity
+
+[33mcommit c17f39a9167374987ad2a1fa81c75808aabfcf0b[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Thu Jul 11 12:11:43 2024 -0700
+
+    Added gitignore part 3
+
+[33mcommit 037b09a7e1dd980d72ea37b28f1b1a5c1cde8941[m
+Merge: b4914d4 2d81651
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Thu Jul 11 12:09:09 2024 -0700
+
+    added gitignore part 2
+
+[33mcommit b4914d4794f755f3da7e01270db5fb9e8401cf5f[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Thu Jul 11 12:02:33 2024 -0700
+
+    Clean unnecesary files from repo
+
+[33mcommit 2d81651cab57b5c3b63ea20da4b2a46fbbb916e2[m
+Author: KevinValP <127078493+KevinValP@users.noreply.github.com>
+Date:   Thu Jul 11 12:02:00 2024 -0700
+
+    Delete PrimerAPI/PrimerAPI/bin/Debug/net8.0 directory
+
+[33mcommit ba77d246bfe3d1496454db1058a6653255d56431[m
+Author: KevinValP <127078493+KevinValP@users.noreply.github.com>
+Date:   Thu Jul 11 12:01:16 2024 -0700
+
+    Delete PrimerAPI/PrimerAPI/obj directory
+
+[33mcommit b2ab6bfa3f599fe1e6da0dc3f15469f63aabd9b7[m
+Author: KevinValP <127078493+KevinValP@users.noreply.github.com>
+Date:   Thu Jul 11 12:00:59 2024 -0700
+
+    Delete PrimerAPI/PrimerAPI/.vs directory
+
+[33mcommit 43dfde012dfbeb2cfb52e6ee6adc6dec95783cd6[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Thu Jul 11 11:59:57 2024 -0700
+
+    Added gitignore
+
+[33mcommit a42f8a6bd47484dc473a03788e8b25662076441a[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Thu Jul 11 11:51:13 2024 -0700
+
+    Start to use an actual DB
+
+[33mcommit 9f2fb27dea33d36bf6468c379136b8067c42e214[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Wed Jul 10 12:07:52 2024 -0700
+
+    Separate Logic
+
+[33mcommit f24d7b4411983f408af206aeba43a1273c33472d[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Tue Jul 9 14:20:13 2024 -0700
+
+    Basic API Functionality
+
+[33mcommit 9d8627aed19956bc7f38e55b2e129a61081bc28f[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Tue Jul 9 13:09:54 2024 -0700
+
+    Create API project
+
+[33mcommit 31bd615d589bbdf8047d57e266f111f47e5d6d96[m
+Author: Kevin Jair Valenzuela Ponce <19170694@itculiacan.edu.mx>
+Date:   Tue Jul 9 12:53:10 2024 -0700
+
+    Repo Creation

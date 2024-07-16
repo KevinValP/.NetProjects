@@ -1,0 +1,11 @@
+@page
+@model IndexModel
+<h1>Wooot!</h1>
+<p>Estudiantes</p>
+<ol>
+    @foreach (var estudiante in Model.EstudiantesEnLista)
+    {
+        <li><strong>@estudiante.NumeroControl</strong>: @estudiante.Nombre,  @estudiante.Carrera</li>
+
+    }
+</ol>
