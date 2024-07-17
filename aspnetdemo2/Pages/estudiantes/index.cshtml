@@ -1,11 +1,36 @@
 @page
 @model IndexModel
+@{
+    int i = 1;
+}
 <h1>Wooot!</h1>
 <p>Estudiantes</p>
+<div>
+    <button class="btn btn-primary">Agregar</button>
+</div>
 <ol>
-    @foreach (var estudiante in Model.EstudiantesEnLista)
-    {
-        <li><strong>@estudiante.NumeroControl</strong>: @estudiante.Nombre,  @estudiante.Carrera</li>
+   
+        <table class="table table-striped table-hover">
+            <thead class="thead-dark">
+                <tr class="table table-dark">
+                    <th>#</th>
+                    <th>No. Control</th>
+                    <th>Nombre</th>
+                    <th>Carrera</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var estudiante in Model.EstudiantesEnLista)
+                {
+                    <tr scope="row">
+                        <td>@i</td>
+                        <td>@estudiante.NumeroControl</td>
+                        <td>@estudiante.Nombre</td>
+                        <td>@estudiante.Carrera</td>
+                    </tr>
+                    i++;
 
-    }
+                }
+            </tbody>    
+        </table>
 </ol>
