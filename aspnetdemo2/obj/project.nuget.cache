@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgdawPccxCo=",
+  "dgSpecHash": "XgVPIS97ACg=",
   "success": true,
-  "projectFilePath": "c:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj",
+  "projectFilePath": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin.valenzuela\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\kevin.valenzuela\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

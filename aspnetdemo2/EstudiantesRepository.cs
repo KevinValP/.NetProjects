@@ -1,4 +1,6 @@
-namespace aspnetDemo2{
+
+namespace aspnetDemo2
+{
     public class EstudiantesRepository{
     private static List<Estudiante> _estudiantes = new List<Estudiante>();
         static EstudiantesRepository(){
@@ -9,6 +11,11 @@ namespace aspnetDemo2{
         public List<Estudiante> GetEstudiantes(){
             
             return _estudiantes.Select(e=>e).ToList();
+        }
+
+        internal void CrearEstudiante(Estudiante estudiante)
+        {
+            _estudiantes.Add(estudiante);
         }
     } 
 

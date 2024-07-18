@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj": {}
+    "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj": {
+    "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj",
+        "projectUniqueName": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj",
         "projectName": "aspnetdemo2",
-        "projectPath": "c:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj",
+        "projectPath": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\aspnetdemo2.csproj",
         "packagesPath": "C:\\Users\\kevin.valenzuela\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\obj\\",
+        "outputPath": "C:\\Users\\kevin.valenzuela\\Desktop\\.NetProjects\\aspnetdemo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
