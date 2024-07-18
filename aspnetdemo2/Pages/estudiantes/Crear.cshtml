@@ -1,0 +1,31 @@
+@page 
+@model CrearModel
+<h1>Crear Estudiante</h1>
+
+<form method="POST">
+  <div class="mb-3">
+    <label for="NumeroControl" class="form-label">Número de Control
+    </label>
+    <input type="text" class="form-control" name="NumeroControl" id="NumeroControl" aria-describedby="">
+  </div> 
+
+    <div class="mb-3">
+    <label for="Nombre" class="form-label">Nombre
+    </label>
+    <input type="text" class="form-control" name="Nombre" id="Nombre" aria-describedby="">
+  </div>
+
+    <div class="mb-3">
+    <label for="Carrera" class="form-label">Carrera
+    </label>
+    <input type="text" class="form-control" name="Carrera" id="Carrera" aria-describedby="">
+  </div>
+
+    <div class="mb-3">
+    <label for="Promedio" class="form-label">Promedio
+    </label>
+    <input type="text" class="form-control" name="Promedio" id="Promedio" aria-describedby="">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
