@@ -1,4 +1,5 @@
 
+
 namespace aspnetDemo2
 {
     public class EstudiantesRepository{
@@ -16,6 +17,11 @@ namespace aspnetDemo2
         internal void CrearEstudiante(Estudiante estudiante)
         {
             _estudiantes.Add(estudiante);
+        }
+
+        internal Estudiante LeerPorNC(string nc)
+        {
+            return _estudiantes.FirstOrDefault(e => e.NumeroControl == nc);
         }
     } 
 

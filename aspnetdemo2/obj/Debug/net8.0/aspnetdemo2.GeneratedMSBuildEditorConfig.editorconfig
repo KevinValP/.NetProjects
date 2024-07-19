@@ -17,51 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = aspnetdemo2
 build_property.RootNamespace = aspnetdemo2
-build_property.ProjectDir = C:\Users\kevin.valenzuela\Desktop\.NetProjects\aspnetdemo2\
+build_property.ProjectDir = c:\Users\kevin.valenzuela\Desktop\.NetProjects\aspnetdemo2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kevin.valenzuela\Desktop\.NetProjects\aspnetdemo2
+build_property.MSBuildProjectDirectory = c:\Users\kevin.valenzuela\Desktop\.NetProjects\aspnetdemo2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Error.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/estudiantes/Crear.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/estudiantes/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXN0dWRpYW50ZXNcQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/estudiantes/index.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/estudiantes/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXN0dWRpYW50ZXNcRGV0YWxsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/estudiantes/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZXN0dWRpYW50ZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Index.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Privacy.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Todo.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Todo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/_ViewImports.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/_ViewStart.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Shared/_Layout.cshtml]
+[c:/Users/kevin.valenzuela/Desktop/.NetProjects/aspnetdemo2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sbb5bzx2fv
